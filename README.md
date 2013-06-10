@@ -11,7 +11,7 @@ items.  However, if you have any issues you can email me at BOCAJANRAK@GMAIL.COM
 |INSTALL INSTRUCTIONS|
 |====================|
 
-    Microsoft Windows:
+        Microsoft Windows:
 
 1) Navigate to  \Steam\steamapps\common\team fortress 2\tf\cfg\
 
@@ -32,7 +32,7 @@ If the game launched correctly you should see this text in the console.
 ------------------------------------------------------- 
 
 
-    Macintosh OSX
+        Macintosh OSX:
 
 1) Navigate to \library\application support\steam\steamapps\common\team fortress 2\tf\cfg\
 
@@ -52,12 +52,4 @@ If the game launched correctly you should see this text in the console.
  
 ------------------------------------------------------- 
 
-
-|=======================================|
-| IF ANY ERRORS OCCUR-                  |
-| PLEASE EMAIL BOCAJANRAK@GMAIL.COM     |
-| Please do not expect a quick reply -  |
-| I am currently busy with other tasks. |
-| Thank you.                            |                             
-|=======================================|
 
