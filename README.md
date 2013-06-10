@@ -44,12 +44,10 @@ If the game launched correctly you should see this text in the console.
 
 ------------------------------------------------------- 
  
-                 Trin's cfg is loaded.                  
+Trin's cfg is loaded.                  
  
 ------------------------------------------------------- 
  
-  autoexec.cfg by Trin has been loaded without error.   
+autoexec.cfg by Trin has been loaded without error.   
  
 ------------------------------------------------------- 
-
-
