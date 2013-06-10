@@ -6,6 +6,7 @@ TF2 Config - Compilation of a max FPS config and others.
 Disclaimer: Modifying configuration files may leave Team Fortress 2 in a broken or otherwise unplayable state.  
 Do so at your own risk and discretion.  I am not responsible for any damage to your game, computer or any other
 items.  However, if you have any issues you can email me at BOCAJANRAK@GMAIL.COM and I will respond as soon as possible.
+Alternately you can report an issue in the Issues tab.
 
 |====================|
 |INSTALL INSTRUCTIONS|
